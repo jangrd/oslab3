@@ -1,1 +1,0 @@
-savedcmd_/home/user/lab3/mojmodul.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/user/lab3/mojmodul.ko /home/user/lab3/mojmodul.o /home/user/lab3/mojmodul.mod.o /home/user/lab3/.module-common.o
